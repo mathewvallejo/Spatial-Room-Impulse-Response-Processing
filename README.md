@@ -1,0 +1,1 @@
+This notebook accompanies the AES 2026 workshop on conducting Spatial Room Impulse Response (SRIR) measurements for creative applications. It includes simulated data for the SRIR recording and processing pipeline. Real world measurement scenarios require the appropriate loudspeaker output, microphone array (spaced array, binaural, ambisonic), and careful equipment calibration.
